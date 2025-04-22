@@ -1,7 +1,11 @@
 # Results
 
+
+
+
 ```{r}
 library(ggplot2)
-ggplot(iris)
+ggplot(iris, aes(Sepal.Length, Sepal.Width)) +
+  geom_point()
 ```
 
