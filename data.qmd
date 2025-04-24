@@ -8,5 +8,6 @@ ggplot(mtcars, aes(x = wt, y = mpg)) +
 ```
 
 
-
+shoule not have any missing values
 ## Missing value analysis
+
