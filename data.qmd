@@ -9,5 +9,9 @@ ggplot(mtcars, aes(x = wt, y = mpg)) +
 
 
 ## Missing value analysis
+<<<<<<< HEAD
 
 
+=======
+should have some missing values here
+>>>>>>> 1ccde13919e332c03b5bb142a3a49b3d6f60beff
